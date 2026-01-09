@@ -275,6 +275,7 @@ Here we can keep track of what mods have been added and what version a contribut
 | [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | 7.0.67.844 | Fully Added | # Originally part of IC2, became it's own mod. Original owner cpw let ProgWML6 maintain and update it.
 | [Iron Chests: Restocked](https://modrinth.com/mod/ironchests) | 5.0.2 | Fully Added |
 | Iron Furnaces | | Unknown | # Not sure what version of this mod was used
+| [Items Displayed](https://modrinth.com/mod/items-displayed-forge) | 2.0.10 | Miniscule | # Placed ores only
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion) | 2.3.2 | Partial Support |
 | [JDK's Mob Grinding Utilities](https://modrinth.com/mod/jdk-mgu) | | Miniscule |
 | [Just a Greenhouse](https://modrinth.com/mod/just-a-greenhouse) | 1.1.3 | Fully Added | # Items still have to be added but as a wise person once said "I cannot be arsed"
@@ -346,6 +347,7 @@ Here we can keep track of what mods have been added and what version a contribut
 | [Origins](https://modrinth.com/mod/origins) | 1.10.0 | Miniscule |
 | [Oritech](https://modrinth.com/mod/oritech) | 0.19.4 | Fully Added |
 | [Outer End](https://modrinth.com/mod/the-outer-end) | | Miniscule | # Only outer_end:rose_crystal_lamp because a user needed that one
+| [Packed Up](https://modrinth.com/mod/packed-up) | 0.5.4 | Miniscule | # Ore pallets only
 | [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops) | | Partial Support |
 | [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees) | | Fully Added |
 | [Philip's Ruins](https://modrinth.com/mod/philips-ruins) | | Miniscule | # Light sources only
